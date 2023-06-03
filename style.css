@@ -1,0 +1,42 @@
+.video-wrapper {
+  position: relative;
+  opacity: 60%;
+  width: auto;
+  height: auto;
+}
+.video-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+h2 {
+  color: #020267;
+  text-align: center;
+  padding-top: 100px;
+  line-height: 70px;
+  text-shadow: 2px 2px 5px #0095ff;
+}
+h1 {
+  color: #91035c;
+  text-align: center;
+  padding-top: 30px;
+  text-shadow: 2px 2px 5px #b70a0a;
+}
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
